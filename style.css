@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: 'Bungee', cursive;
-    background-image: url("https://png.pngtree.com/background/20230203/original/pngtree-sky-blue-background-with-clouds-picture-image_2025575.jpg"); /* Fondo para la página */
+    background-image: url("fondo.jpg"); /* Fondo para la página */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -21,7 +21,7 @@ body {
 
 /* Contenedor del juego */
 #game-container {
-    background-image: url("https://img.freepik.com/vector-gratis/diseno-patron-duotono-verano-dibujado-mano_23-2149527396.jpg?semt=ais_hybrid");
+    background-image: url("fondoj.jpg");
     background-size: cover;
     background-position: center;
     background-color: rgba(255, 255, 255, 0.8);
